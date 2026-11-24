@@ -7,3 +7,4 @@ def reverse_word(text):
 
 entered_text = input("Enter a word: ")
 print(reverse_word(entered_text))
+
